@@ -1,0 +1,14 @@
+C:\Users\Administrator\Pinger\bin\Debug\net9.0\SGMAPP.exe
+C:\Users\Administrator\Pinger\bin\Debug\net9.0\SGMAPP.deps.json
+C:\Users\Administrator\Pinger\bin\Debug\net9.0\SGMAPP.runtimeconfig.json
+C:\Users\Administrator\Pinger\bin\Debug\net9.0\SGMAPP.dll
+C:\Users\Administrator\Pinger\bin\Debug\net9.0\SGMAPP.pdb
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.AssemblyInfo.cs
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.dll
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\refint\SGMAPP.dll
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.pdb
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\SGMAPP.genruntimeconfig.cache
+C:\Users\Administrator\Pinger\obj\Debug\net9.0\ref\SGMAPP.dll

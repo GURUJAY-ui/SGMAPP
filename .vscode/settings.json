@@ -1,0 +1,4 @@
+{
+    // Path and filename of the git executable, e.g. `C:\Program Files\Git\bin\git.exe` (Windows). This can also be an array of string values containing multiple paths to look up.
+	"git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+}
